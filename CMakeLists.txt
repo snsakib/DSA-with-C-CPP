@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(.)
 include_directories(Recursion)
-
-add_executable(DSA
-        Recursion/static-variables-in-recursion.cpp)
+add_executable(static-variables-in-recursion Recursion/static-variables-in-recursion.cpp)
+add_executable(global-variables-in-recursion Recursion/global-variables-in-recursion.cpp)
+add_executable(tail-recursion Recursion/tail-recursion.cpp)

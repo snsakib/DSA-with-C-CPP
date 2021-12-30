@@ -1,3 +1,5 @@
 /home/sakib/Projects/current-projects/DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /home/sakib/Projects/current-projects/DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/sakib/Projects/current-projects/DSA/cmake-build-debug/CMakeFiles/DSA.dir
+/home/sakib/Projects/current-projects/DSA/cmake-build-debug/CMakeFiles/global-variables-in-recursion.dir
+/home/sakib/Projects/current-projects/DSA/cmake-build-debug/CMakeFiles/static-variables-in-recursion.dir
+/home/sakib/Projects/current-projects/DSA/cmake-build-debug/CMakeFiles/tail-recursion.dir
