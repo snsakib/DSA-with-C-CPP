@@ -10,3 +10,4 @@ add_executable(global-variables-in-recursion Recursion/global-variables-in-recur
 add_executable(tail-recursion Recursion/tail-recursion.cpp)
 add_executable(head-recursion Recursion/head-recursion.cpp)
 add_executable(tree-recursion Recursion/tree-recursion.cpp)
+add_executable(indirect-recursion Recursion/indirect-recursion.cpp)
